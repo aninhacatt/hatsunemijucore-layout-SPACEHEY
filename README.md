@@ -23,7 +23,7 @@ Original URL: [https://codepen.io/aninhacatt/pen/OPyvMZW](https://codepen.io/ani
 ---
 
 ## 💌 Créditos
-- Layout criado por [aninhacatt](https://github.com/aninhacatt) - créditos as bordas (Windows 98] : Angel Is Pretty. Odd.
+- Layout criado por [aninhacatt](https://github.com/aninhacatt) - créditos as bordas [Windows 98] : Angel Is Pretty. Odd.
 - Cursores: [cursors-4u.com](https://www.cursors-4u.com)
 - Fontes: [Google Fonts](https://fonts.google.com)
 

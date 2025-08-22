@@ -16,7 +16,8 @@ Original URL: [https://codepen.io/aninhacatt/pen/OPyvMZW](https://codepen.io/ani
 ---
 
 ## 🖼 Preview do Layout
-<img src="![Imagem do WhatsApp de 2025-08-22 à(s) 00 31 26_fe30d3b8](https://github.com/user-attachments/assets/966d7e8b-ddc0-491b-8c60-2d6e89b35bc7)"/>
+<img src="https://i.imgur.com/A7786b5.jpeg"/>
+
 
 
 ---

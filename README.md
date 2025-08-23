@@ -1,4 +1,4 @@
-# hatsune miku
+# Hatsune Miku
 
 A Pen created on CodePen.
 
